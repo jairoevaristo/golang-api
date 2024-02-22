@@ -2,7 +2,7 @@
 
 This project aims to create an API that serves to shorten links
 
-This project aims to create an API that serves to shorten links. The user sends a `url` parameter in the request body with the url they wish to shorten to the `http://localhost:3333/short-link` endpoint
+The user sends a `url` parameter in the request body with the url they wish to shorten to the `http://localhost:3333/short-link` endpoint
 
 ## Running the project
 
