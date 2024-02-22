@@ -13,5 +13,5 @@ go run cmd/main.go
 or 
 
 ````bash
-make file run
+make run
 ````
